@@ -30,5 +30,5 @@ java -jar build/libs/MCP919-LWJGL3-1.8.9-all.jar
 
 ## Notes
 
-- This project requires Java 21 to build and run
-- Make sure you have the JDK 21 installed and configured properly
+- This project requires Java 8 to build and run
+- Make sure you have the JDK 8 installed and configured properly
